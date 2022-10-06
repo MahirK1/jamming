@@ -12,4 +12,4 @@ Remove Song from Custom Playlist — users can remove a track from their playlis
 Change Playlist Title — users can change the title of their custom playlist.
 Save Playlist to Account — users can save their custom playlist by clicking a button called SAVE TO SPOTIFY.
 
-Live on:
+Live on: https://jammingapp.netlify.app/
